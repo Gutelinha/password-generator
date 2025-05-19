@@ -20,12 +20,12 @@ Este projeto é um gerador de senhas que permite criar senhas seguras e aleatór
 - JavaScript (ES6+)
 
 ## 📁 Estrutura do Projeto
-password-generator/ 
-├── src/ 
-│ ├── index.html 
-│ ├── style.css 
-│ └── script.js 
-└── README.md
+password-generator/  
+├── src/  
+│ ├── index.html  
+│ ├── style.css  
+│ └── script.js  
+└── README.md  
 
 ## 📦 Como Executar
 
